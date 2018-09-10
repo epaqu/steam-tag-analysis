@@ -1,0 +1,13 @@
+plot(density(c0), col="red", main="Score Distribution of Subnetworks", xlab="Scores")
+lines(density(c1), col="blue")
+lines(density(c2), col="green")
+lines(density(c3), col="black")
+lines(density(c4), col="violet")
+lines(density(c5), col="orange")
+
+text(x=127.6369, y=0.09, col="red", labels="Network = 127.6369")
+text(x=135, y=0.027, col="blue", labels="Cluster 1 = 128.4416")
+text(x=80, y=0.01, col="green", labels="Cluster 2 = 116.4087")
+text(x=140, y=0.022, col="black", labels="Cluster 3 = 127.7799")
+text(x=155, y=0.02, col="violet", labels="Cluster 4 = 170.0087")
+text(x=105, y=0.04, col="orange", labels="Cluster 5 = 111.9177")

@@ -1,0 +1,59 @@
+
+클러스터 1번
+[1] "Strategy"             "Simulation"           "RTS"                  "Turn-Based"           "War"                 
+[6] "Fantasy"              "Tactical"             "Turn-Based_Strategy"  "Multiplayer"          "Historical"          
+[11] "World_War_II"         "Singleplayer"         "Action_RPG"           "Turn-Based_Combat"    "Tower_Defense"       
+[16] "Card_Game"            "Moddable"             "4X"                   "Hex_Grid"             "MOBA"                
+[21] "Board_Game"           "Post-apocalyptic"     "Military"             "Medieval"             "Realistic"           
+[26] "City_Builder"         "Grand_Strategy"       "Wargame"              "Replay_Value"         "Isometric"           
+[31] "Naval"                "Real-Time_with_Pause" "Base-Building"        "Resource_Management"  "Trading_Card_Game"   
+[36] "Tanks"                "Turn-Based_Tactics"   "Strategy_RPG"         "Hack_and_Slash"       "Dark_Fantasy"        
+[41] "Party-Based_RPG"      "Trains"               "Trading"              "Flight"               "Driving"             
+[46] "Third-Person_Shooter" "Remake"              
+
+
+클러스터 2번
+[1] "Building"   "Survival"   "Open_World" "Space"      "Sandbox"    "Sci-fi"     "Crafting"   "Space_Sim" 
+
+
+클러스터 3번
+[1] "Casual"             "Racing"             "Music"              "Platformer"         "Co-op"             
+[6] "Comedy"             "Great_Soundtrack"   "Arcade"             "Shooter"            "Local_Co-Op"       
+[11] "2D"                 "Pixel_Graphics"     "Retro"              "Difficult"          "Funny"             
+[16] "Shoot_'Em_Up"       "Twin_Stick_Shooter" "Top-Down"           "Bullet_Hell"        "Family_Friendly"   
+[21] "Local_Multiplayer"  "Controller"         "Physics"            "Cute"               "Side_Scroller"     
+[26] "Education"          "Fast-Paced"         "Rhythm"             "Minimalist"         "Stylized"          
+[31] "Colorful"           "Abstract"           "4_Player_Local"     "Puzzle-Platformer"  "Robots"            
+[36] "Memes"              "Clicker"            "Metroidvania"       "Top-Down_Shooter"
+
+
+클러스터 4번
+ [1] "Zombies"              "FPS"                  "Puzzle"               "Horror"               "Classic"             
+ [6] "Third_Person"         "Point_&_Click"        "Psychological_Horror" "Story_Rich"           "Exploration"         
+[11] "First-Person"         "Atmospheric"          "Mystery"              "Female_Protagonist"   "VR"                  
+[16] "Stealth"              "Choices_Matter"       "Relaxing"             "Surreal"              "Short"               
+[21] "Dark"                 "Walking_Simulator"    "Hidden_Object"        "Survival_Horror"      "Gore"                
+[26] "Detective"            "Cult_Classic"         "1990's"              
+
+
+클러스터 5번
+[1] "Free_to_Play"              "RPG"                       "Massively_Multiplayer"     "Sports"                   
+[5] "Rogue-like"                "Dungeon_Crawler"           "Fighting"                  "Visual_Novel"             
+[9] "Online_Co-Op"              "Rogue-lite"                "Anime"                     "Choose_Your_Own_Adventure"
+[13] "Procedural_Generation"     "RPGMaker"                  "Dating_Sim"                "Management"               
+[17] "Action"                    "Adventure"                 "Indie"                     "Match_3"                  
+[21] "Steampunk"                 "JRPG"                      "Economy"                   "Tactical_RPG"             
+[25] "MMORPG"                    "Perma_Death"               "Magic"                     "Cyberpunk"                
+[29] "Loot"                      "CRPG"                      "Character_Customization"   "Kickstarter"              
+[33] "Interactive_Fiction"       "Cartoony"                  "Romance"                   "3D_Platformer"            
+[37] "Nudity"                    "Level_Editor"              "Touch-Friendly"            "Otome"                    
+[41] "Soccer"                    "Football"                  "Action-Adventure"          "Hand-drawn"               
+[45] "Lovecraftian"              "Noir"                      "Episodic"                  "Multiple_Endings"         
+[49] "Beat_'em_up"               "2D_Fighter"                "Arena_Shooter"             "PvP"                      
+[53] "Competitive"               "Aliens"                    "Futuristic"                "Parkour"                  
+[57] "Dark_Humor"                "Experimental"              "Western"                   "Pirates"                  
+[61] "Ninja"                     "Mechs"                     "2.5D"                      "Destruction"              
+[65] "1980s"                     "Runner"                    "Split_Screen"              "Score_Attack"             
+[69] "Mature"                    "Crime"                     "FMV"                       "Voxel"                    
+[73] "Cartoon"                   "Dystopian"                 "Narration"                 "God_Game"                 
+[77] "Hacking"                   "Science"                   "Psychedelic"              
